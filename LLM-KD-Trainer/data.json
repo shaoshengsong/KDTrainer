@@ -1,0 +1,27 @@
+[
+  {
+    "instruction": "Introduce the basic classification of apples (by harvest season)",
+    "input": "Apple seasonal classification",
+    "output": "Apples can be classified into three categories based on harvest season: ① Early-maturing varieties (ripening in July-August), such as Gala and Red Chief, which have a slightly sour and crisp texture; ② Mid-season varieties (ripening in September-October), such as Red Fuji and Qin Guan, which are sweeter and suitable for storage; ③ Late-maturing varieties (ripening after November), such as Pink Lady, which have firm flesh, rich flavor, and are suitable for long-term storage."
+  },
+  {
+    "instruction": "Describe an apple using personification",
+    "input": "A red apple",
+    "output": "I am a plump red apple, wearing a 'coat' that's half red and half yellow, with a surface as smooth as if waxed. The stem on my top is my 'pigtail'; gently touching it, you can feel the juicy flesh beneath my skin gently swaying. Bring me close to your nose, and a sweet, fresh fragrance will sneak into your nostrils—that's me inviting you to take a bite!"
+  },
+  {
+    "instruction": "Answer questions about apple storage",
+    "input": "How to extend the shelf life of apples?",
+    "output": "Methods to extend the shelf life of apples include: ① Refrigeration: Place in the refrigerator's chill compartment (temperature 0-4°C), wrap in a plastic bag (leave a small hole for ventilation), which can preserve them for 1-2 months; ② Avoid mixing: Keep apples separate from ethylene-releasing fruits like bananas and pears to prevent accelerated ripening; ③ Cool, ventilated place: Store at room temperature in a cool, dry area, suitable for short-term consumption lasting 1-2 weeks."
+  },
+  {
+    "instruction": "List 3 common ways to eat apples (not raw)",
+    "input": "Processed ways to eat apples",
+    "output": "Non-raw ways to enjoy apples include: ① Apple pie: Dice apples, sauté with butter and sugar until soft, then bake in a pastry crust made from flour and eggs, resulting in a crisp exterior and tender interior; ② Apple and tremella soup: Simmer apple chunks with tremella and red dates, sweeten with rock sugar, a nourishing dish for lung health and beauty; ③ Baked apple: Remove the core from an apple, fill with honey and nuts, and bake in the oven, creating a richly flavored treat ideal for autumn and winter."
+  },
+  {
+    "instruction": "Compare the core differences between apples and pears (from taste and nutritional focus)",
+    "input": "Differences between apples and pears",
+    "output": "In terms of taste: Apple flesh is mostly crisp (except for mealy varieties), with relatively thin skin; pear flesh tends to be delicate and juicy, with some varieties (like Ya pears) having smoother skin. Regarding nutritional emphasis: Apples are richer in dietary fiber (especially pectin), which aids intestinal motility; pears contain more water and sorbitol, making them more effective for moistening the lungs and quenching thirst, thus more suitable for dry seasons."
+  }
+]
